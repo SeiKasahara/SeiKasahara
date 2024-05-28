@@ -1,7 +1,7 @@
 # Hi there, I'm Seikasahara(Edward) 👋
 
 ## About Me
-![angry_emu - Imgflip](https://i.imgflip.com/z9mze.jpg)
+<img src="https://i.imgflip.com/z9mze.jpg" width="300">
 - 🔭 I’m currently working on **Web Crawler** and **Data Analysis**
 - 🌱 I’m currently learning **Deep Learning**, **Cyber Security**, **Compilation**
 - 💬 Ask me about: web development, machine learning, open source, Python, JavaScript, Java, Scheme
