@@ -17,17 +17,14 @@
 - [Machine Learning Foundation](https://github.com/SeiKasahara/MachineLearningEx) Implemented linear regression, logistic regression, and a neural network for handwritten digit recognition using basic NumPy (this project is very classic).
 
 ## Skills
-- **Programming Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white),
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- **Tools & Technologies**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white),
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-- **Frameworks & Libraries**: ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB),
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+- **Programming Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black), ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white), ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white), ![Scheme](https://img.shields.io/badge/Scheme-0C2233?style=flat&logo=scheme&logoColor=white)
+- **Tools & Technologies**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white), ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- **Frameworks & Libraries**: ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB), ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SeiKasahara&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seikasahara&layout=compact)
 
 ## Contact Me
 - [Twitter/X](https://x.com/KirisameCalhoun)
