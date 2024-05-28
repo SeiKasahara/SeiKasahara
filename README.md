@@ -1,6 +1,7 @@
 # Hi there, I'm Seikasahara(Edward) 👋
 
 ## About Me
+![angry_emu - Imgflip](https://i.imgflip.com/z9mze.jpg)
 - 🔭 I’m currently working on **Web Crawler** and **Data Analysis**
 - 🌱 I’m currently learning **Deep Learning**, **Cyber Security**, **Compilation**
 - 💬 Ask me about: web development, machine learning, open source, Python, JavaScript, Java, Scheme
@@ -24,7 +25,7 @@
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SeiKasahara&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seikasahara&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeiKasahara&layout=compact)
 
 ## Contact Me
 - [Twitter/X](https://x.com/KirisameCalhoun)
