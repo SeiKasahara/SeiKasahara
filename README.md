@@ -1,15 +1,20 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Seikasahara(Edward) 👋
 
 ## About Me
 - 🔭 I’m currently working on **Web Crawler** and **Data Analysis**
-- 🌱 I’m currently learning **Deep Learning** and **Cyber Security**
-- 💬 Ask me about...
+- 🌱 I’m currently learning **Deep Learning**, **Cyber Security**, **Compilation**
+- 💬 Ask me about: web development, machine learning, open source, Python, JavaScript, Java, Scheme
 - 📫 How to reach me: arigatouyyx.at.gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact:
+- By a twist of fate, I ended up majoring in Japanese during my undergraduate studies and achieved the N1 level in Japanese proficiency.
+- While studying a foreign language, I also minored in philosophy and mathematical modeling, which sparked my interest in computers.
+- Although I did not have any mathematics courses in my undergraduate program, I completed many open courses from UC Berkeley and MIT.
+- I thoroughly worked on the projects and assignments, so my foundation in mathematics and physics is quite solid.
 
 ## My Projects
-- [Web Crawler](project-link): It uses LSTM to analyse the emotional data from much many investors(maybe millions of comments), with a logistics regression drived web crawler
+- [Web Crawler](https://github.com/SeiKasahara/FinancialCrawler): It uses LSTM to analyse the emotional data from much many investors(maybe millions of comments), with a logistics regression drived web crawler
+- [Machine Learning Foundation](https://github.com/SeiKasahara/MachineLearningEx) Implemented linear regression, logistic regression, and a neural network for handwritten digit recognition using basic NumPy (this project is very classic).
 
 ## Skills
 - **Programming Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white),
@@ -25,13 +30,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
 
 ## Contact Me
-- [Twitter/X]([https://X.com/kirisamecalhoun](https://x.com/KirisameCalhoun))
+- [Twitter/X](https://x.com/KirisameCalhoun)
 - [Personal Blog](https://seikasahara.com)
 - ...
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Game Theory Note]([https://your-blog-link.com/post-1](https://seikasahara.com/p/pqdm.html))
-- [Set Different Background Corresponding to User's Client]([https://your-blog-link.com/post-2](https://seikasahara.com/p/1578.html))
+- [Game Theory Note](https://seikasahara.com/p/pqdm.html)
+- [Set Different Background Corresponding to User's Client](https://seikasahara.com/p/1578.html)
 - ...
 <!-- BLOG-POST-LIST:END -->
