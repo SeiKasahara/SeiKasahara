@@ -36,6 +36,7 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Frontend Web Develop Note 1](https://seikasahara.com/p/vppm.html)
 - [Introduction of Cryptography](https://seikasahara.com/p/vepm.html)
 - [Game Theory Note](https://seikasahara.com/p/pqdm.html)
 - [Set Different Background Corresponding to User's Client](https://seikasahara.com/p/1578.html)
