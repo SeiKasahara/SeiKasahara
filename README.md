@@ -15,7 +15,7 @@
 - I thoroughly worked on the projects and assignments, so my foundation in mathematics and physics is quite solid.
 
 ## My Projects
-- [IoT5506](https://github.com/SeiKasahara/IoT5506):This is an out-of-the-box open-source IoT platform specifically designed for Firebeetle and Xiao ESP32S3. The platform utilizes Docker for CI/CD automated builds, uses Sqlite3 as the default database management system, and provides Nginx port forwarding settings.
+- [IoT5506](https://github.com/SeiKasahara/IoT5506): This is an out-of-the-box open-source full-stack IoT platform specifically designed for Firebeetle and Xiao ESP32S3. The platform utilizes Docker for CI/CD automated builds, uses Sqlite3 as the default database management system, and provides Nginx port forwarding settings. Frontend uses React.js and Backend uses Django.
 - [Web Crawler](https://github.com/SeiKasahara/FinancialCrawler): It uses LSTM to analyse the emotional data from much many investors(maybe millions of comments), with a logistics regression drived web crawler
 - [Machine Learning Foundation](https://github.com/SeiKasahara/MachineLearningEx) Implemented linear regression, logistic regression, and a neural network for handwritten digit recognition using basic NumPy (this project is very classic).
 - [Penni](https://github.com/codersforcauses/penni): Collaborate project with third-party, use ![Typescript](https://img.shields.io/badge/Typescript-33AAAA?style=flat&logo=typescript&logoColor=FFFFFF) + ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) + ![Django](https://img.shields.io/badge/Django-FFFFFF?style=flat&logo=django&logoColor=61DAFB) to build web application
