@@ -30,6 +30,9 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SeiKasahara&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeiKasahara&layout=compact)
 
+## Codewars badge
+![](https://www.codewars.com/users/SeiKasahara/badges/large)
+
 ## Contact Me
 - [Twitter/X](https://x.com/KirisameCalhoun)
 - [Personal Blog](https://seikasahara.com)
