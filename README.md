@@ -3,21 +3,20 @@
 ## About Me
 <img src="https://i.imgflip.com/z9mze.jpg" width="300">
 
-- 🔭 I’m currently working on **Web Crawler** and **Data Analysis**
-- 🌱 I’m currently learning **Deep Learning**, **Cyber Security**, **Compilation**
-- 💬 Ask me about: web development, machine learning, open source, Python, JavaScript, Java, Scheme
-- 📫 How to reach me: arigatouyyx.at.gmail.com
+- 🔭 I’m currently working on **RAG** and **Data Analysis**
+- 🌱 I’m currently learning **Deep Learning**, **Natural Language Processing**, **Cloud Computing**
+- 💬 Ask me about: full stack development, machine learning, open source, Python, JavaScript(Or TypeScript), Java
+- 📫 How to reach me: Yuxuan_yuan_NY.at.outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:
 - By a twist of fate, I ended up majoring in Japanese during my undergraduate studies and achieved the N1 level in Japanese proficiency.
 - While studying a foreign language, I also minored in philosophy and mathematical modeling, which sparked my interest in computers.
 - Although I did not have any mathematics courses in my undergraduate program, I completed many open courses from UC Berkeley and MIT.
-- I thoroughly worked on the projects and assignments, so my foundation in mathematics and physics is quite solid.
+- I thoroughly worked on the projects and assignments, so my foundation in mathematics is quite solid.
 
 ## My Projects
 - [IoT5506](https://github.com/SeiKasahara/IoT5506): This is an out-of-the-box open-source full-stack IoT platform specifically designed for Firebeetle and Xiao ESP32S3. The platform utilizes Docker for CI/CD automated builds, uses Sqlite3 as the default database management system, and provides Nginx port forwarding settings. Frontend uses React.js and Backend uses Django.
-- [Web Crawler](https://github.com/SeiKasahara/FinancialCrawler): It uses LSTM to analyse the emotional data from much many investors(maybe millions of comments), with a logistics regression drived web crawler
-- [Machine Learning Foundation](https://github.com/SeiKasahara/MachineLearningEx) Implemented linear regression, logistic regression, and a neural network for handwritten digit recognition using basic NumPy (this project is very classic).
+- [Fuel Price Analysis](https://github.com/SeiKasahara/Agile):A new Western Australia–tailored feature of the Fuel Price Analysis Web App, an open-source Flask application
 - [Penni](https://github.com/codersforcauses/penni): Collaborate project with third-party, use ![Typescript](https://img.shields.io/badge/Typescript-33AAAA?style=flat&logo=typescript&logoColor=FFFFFF) + ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) + ![Django](https://img.shields.io/badge/Django-FFFFFF?style=flat&logo=django&logoColor=61DAFB) to build web application
 
 ## Skills
