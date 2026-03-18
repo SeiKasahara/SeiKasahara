@@ -36,14 +36,14 @@
 
 ## Contact Me
 - [Twitter/X](https://x.com/KirisameCalhoun)
-- [Personal Blog](https://seikasahara.com/en)
+- [Personal Blog](https://seikasahara.com/en/)
 - ...
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Frontend Web Develop Note 1](https://seikasahara.com/zh/vppm)
-- [Introduction of Cryptography](https://seikasahara.com/zh/vepm)
-- [Game Theory Note](https://seikasahara.com/zh/pqdm)
-- [Set Different Background Corresponding to User's Client](https://seikasahara.com/zh/1578)
+- [Frontend Web Develop Note 1](https://seikasahara.com/zh/post/vppm)
+- [Introduction of Cryptography](https://seikasahara.com/zh/post/vepm)
+- [Game Theory Note](https://seikasahara.com/zh/post/pqdm)
+- [Set Different Background Corresponding to User's Client](https://seikasahara.com/zh/post/1578)
 - ...
 <!-- BLOG-POST-LIST:END -->
