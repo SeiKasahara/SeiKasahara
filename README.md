@@ -41,9 +41,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Frontend Web Develop Note 1](https://seikasahara.com/zh/post/vppm)
-- [Introduction of Cryptography](https://seikasahara.com/zh/post/vepm)
-- [Game Theory Note](https://seikasahara.com/zh/post/pqdm)
-- [Set Different Background Corresponding to User's Client](https://seikasahara.com/zh/post/1578)
+- [Frontend Web Develop Note 1](https://seikasahara.com/zh/posts/vppm)
+- [Introduction of Cryptography](https://seikasahara.com/zh/posts/vepm)
+- [Game Theory Note](https://seikasahara.com/zh/posts/pqdm)
+- [Set Different Background Corresponding to User's Client](https://seikasahara.com/zh/posts/1578)
 - ...
 <!-- BLOG-POST-LIST:END -->
