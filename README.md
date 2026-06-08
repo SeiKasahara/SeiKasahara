@@ -30,13 +30,6 @@ data**
   <img src="./assets/point-cloud.svg" alt="3D point cloud morphing between shapes" width="62%" />
 </p>
 
-<p align="center"><sub>
-The same points aggregate into a sphere, a cube, a torus and a spiral — dispersing and re-forming
-between each. A point cloud is just an unordered set of 3D points, no grid or connectivity; my
-research is on architectures that learn <b>permutation-invariant, geometry-aware representations</b>
-straight from that raw structure (sampling, local aggregation, equivariance) for recognition and segmentation.
-</sub></p>
-
 ---
 
 ### What I'm building
@@ -60,7 +53,7 @@ React + TypeScript on an ASP.NET Core 9 backend. In production, serving real use
 ### Stack I reach for
 
 <p>
-  <b>Research / ML</b><br/>
+  <b>Research / AI</b><br/>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" /><br/>
   <b>Product / Backend</b><br/>
   <img src="https://skillicons.dev/icons?i=ts,nextjs,react,django,flask,dotnet,nodejs" /><br/>
@@ -69,14 +62,6 @@ React + TypeScript on an ASP.NET Core 9 backend. In production, serving real use
 </p>
 
 ---
-
-### Off the clock
-
-A few things that aren't on any résumé:
-
-- The handle **KirisameCalhoun** is a Touhou nod — danmaku, doujin music, and the "ordinary magician" aesthetic.
-- I collect graphics / rendering / 3D repos I swear I'll read later (the star count disagrees).
-- Below: the topics I gravitate to, what I've been starring, and which emoji I overuse in comments.
 
 <!-- topics + recently-starred repos + reaction breakdown — GitHub token only -->
 <p align="center">
