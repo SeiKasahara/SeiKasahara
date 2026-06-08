@@ -1,0 +1,146 @@
+<!-- ============ HEADER ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=210&section=header&text=Seikasahara%20(Edward%20Yuan)&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=3D%20Deep%20Learning%20·%20Real-time%20AI%20·%20Perth,%20AU&descAlignY=60&descSize=17&animation=fadeIn" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=860&lines=Deep+learning+researcher+%E2%80%94+3D+%26+point+clouds.;Teaching+machines+to+understand+geometry.;From+a+research+idea+to+a+thing+that+runs.;Building+real-time,+voice-native+AI." />
+</p>
+
+<p align="center">
+  <a href="https://seikasahara.com/en/"><img src="https://img.shields.io/badge/Portfolio-seikasahara.com-1F6FEB?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:Yuxuan_yuan_NY@outlook.com"><img src="https://img.shields.io/badge/Email-Say%20hi-2EA043?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/KirisameCalhoun"><img src="https://img.shields.io/badge/X-@KirisameCalhoun-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=SeiKasahara&style=flat-square&color=1F6FEB&label=Profile+views" />
+</p>
+
+---
+
+### whoami
+
+I'm a **deep learning researcher** who can't resist shipping things. My research home is
+**3D learning — point clouds, geometry, and representation learning on unstructured spatial
+data**: how a network can look at a raw cloud of points and actually *understand* the object
+and the scene behind them.
+
+The other half of me turns ideas into things that run — schema, services, UI, infra and all.
+Lately that's meant building **real-time, voice-native AI** from scratch.
+
+> Currently nerd-sniped by: 3D point-cloud learning · representation learning · real-time multimodal AI.
+
+---
+
+### 3D point clouds
+
+<p align="center">
+  <img src="./assets/point-cloud.svg" alt="3D point cloud morphing between shapes" width="62%" />
+</p>
+
+<p align="center"><sub>
+The same points aggregate into a sphere, a cube, a torus and a spiral — dispersing and re-forming
+between each. A point cloud is just an unordered set of 3D points, no grid or connectivity; my
+research is on architectures that learn <b>permutation-invariant, geometry-aware representations</b>
+straight from that raw structure (sampling, local aggregation, equivariance) for recognition and segmentation.
+</sub></p>
+
+---
+
+### What I'm building
+
+**Real-time conversational AI — a voice-native dialogue system** *(current obsession)*
+A low-latency, full-duplex voice agent: streaming speech-in → LLM reasoning → streaming
+speech-out, with barge-in, turn-taking and tool calling. Wrote the realtime transport,
+binary-frame decoding and provider-failover path myself.
+
+**3D point-cloud deep learning — research**
+Architectures for permutation-invariant representation learning on raw point sets —
+sampling, local geometric aggregation and equivariance for recognition & segmentation.
+
+**[IoT5506](https://github.com/SeiKasahara/IoT5506) — open-source full-stack IoT platform**
+The whole path: ESP32 telemetry → Django API → Postgres → React dashboard, containerized and
+shipped via CI/CD. Real-time device management, Docker-first.
+
+**[HomeBridge](https://github.com/SeiKasahara/HousingCrisisSolution) — housing-coordination platform**
+Multi-role access (applicants, social workers, landlords, orgs) and workflow automation around a
+real social problem. Built 0→1.
+
+**[TheatrumMundi](https://theatrumundi.com) — live worldbuilding SaaS**
+React + TypeScript on an ASP.NET Core 9 backend. In production, serving real users.
+
+---
+
+### Stack I reach for
+
+<p>
+  <b>Research / ML</b><br/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" /><br/>
+  <b>Product / Backend</b><br/>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,django,flask,dotnet,nodejs" /><br/>
+  <b>Infra / Data</b><br/>
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,postgres,redis,supabase,github" />
+</p>
+
+---
+
+### Off the clock
+
+A few things that aren't on any résumé:
+
+- The handle **KirisameCalhoun** is a Touhou nod — danmaku, doujin music, and the "ordinary magician" aesthetic.
+- I collect graphics / rendering / 3D repos I swear I'll read later (the star count disagrees).
+- Below: the topics I gravitate to, what I've been starring, and which emoji I overuse in comments.
+
+<!-- topics + recently-starred repos + reaction breakdown — GitHub token only -->
+<p align="center">
+  <img src="./github-metrics-interests.svg" alt="topics, recent stars, reactions" width="100%" />
+</p>
+
+<!--
+  OPTIONAL personal panels (need an extra account/secret — see metrics.yml):
+    - github-metrics-anime.svg   (AniList shelf — set your AniList username)
+    - github-metrics-music.svg   (now-playing / top tracks — needs a music token)
+  Uncomment once wired:
+  <p align="center">
+    <img src="./github-metrics-anime.svg" alt="anime / manga shelf" width="49%" />
+    <img src="./github-metrics-music.svg" alt="recent tracks" width="49%" />
+  </p>
+-->
+
+---
+
+### By the numbers
+
+<!-- Generated by lowlighter/metrics — see .github/workflows/metrics.yml -->
+<p align="center">
+  <img src="./github-metrics.svg" alt="overview + isometric calendar" width="100%" />
+</p>
+<p align="center">
+  <img src="./github-metrics-habits.svg" alt="coding habits" width="49%" />
+  <img src="./github-metrics-languages.svg" alt="languages" width="49%" />
+</p>
+
+<!-- 3D skyline of my contributions — on theme :) -->
+<p align="center">
+  <img src="./github.skyline.gif" alt="3D contribution skyline" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeiKasahara&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=1F6FEB&point=ffffff" width="100%" />
+</p>
+
+<!-- Snake animation (Platane/snk action, output branch) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SeiKasahara/SeiKasahara/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://seikasahara.com/en/"><b>Portfolio</b></a> ·
+  <a href="https://x.com/KirisameCalhoun"><b>X / Twitter</b></a> ·
+  <a href="https://github.com/SeiKasahara"><b>GitHub</b></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer&text=Built%20with%20curiosity%20in%20Perth,%20WA.&fontColor=ffffff&fontSize=16&fontAlignY=72" width="100%" />
+</p>
