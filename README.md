@@ -20,7 +20,7 @@
 
 I'm a **deep learning researcher** and **software engineer**. My research home is
 **3D learning, point clouds, geometry, and representation learning on unstructured spatial
-data**
+data**. I currently working at University of Western Australia and Language key Ltd.
 
 ---
 
