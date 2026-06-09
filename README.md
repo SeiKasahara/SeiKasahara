@@ -65,7 +65,7 @@ React + TypeScript on an ASP.NET Core 9 backend. In production, serving real use
 
 <!-- topics + recently-starred repos + reaction breakdown — GitHub token only -->
 <p align="center">
-  <img src="./github-metrics-interests.svg" alt="topics, recent stars, reactions" width="49%" />
+  <img src="./github-metrics-interests.svg" alt="topics, recent stars, reactions" width="69%" />
 </p>
 
 <!--
