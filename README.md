@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://seikasahara.com/en/"><img src="https://img.shields.io/badge/Portfolio-seikasahara.com-1F6FEB?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://seikasahara.com/en/"><img src="https://img.shields.io/badge/blog-seikasahara.com-1F6FEB?style=flat-square&logo=vercel&logoColor=white" /></a>
   <a href="mailto:Yuxuan_yuan_NY@outlook.com"><img src="https://img.shields.io/badge/Email-Say%20hi-2EA043?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://x.com/KirisameCalhoun"><img src="https://img.shields.io/badge/X-@KirisameCalhoun-000000?style=flat-square&logo=x&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=SeiKasahara&style=flat-square&color=1F6FEB&label=Profile+views" />
@@ -104,7 +104,7 @@ React + TypeScript on an ASP.NET Core 9 backend. In production, serving real use
 ---
 
 <p align="center">
-  <a href="https://seikasahara.com/en/"><b>Portfolio</b></a> ·
+  <a href="https://seikasahara.com/en/"><b>Personal Blog</b></a> ·
   <a href="https://x.com/KirisameCalhoun"><b>X / Twitter</b></a> ·
   <a href="https://github.com/SeiKasahara"><b>GitHub</b></a>
 </p>
